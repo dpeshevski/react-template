@@ -2,6 +2,10 @@
   "name": "react-timeline",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Daniel Peshevski",
+    "email": "d.pesevski92@gmail.com"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.0.0",
